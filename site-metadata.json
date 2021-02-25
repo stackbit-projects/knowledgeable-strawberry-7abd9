@@ -25,7 +25,7 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link",
-            "arrow": true
+            "arrow": false
         }
     ],
     "title": "Planty",
